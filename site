@@ -4,11 +4,13 @@
 <title>Let's start! [M. J.]</title>
 </head>
 <body>
-<article>Hello!
+<article>
+<h3>Hello World!</h3>
 <br><br>
-My name is Małgorzata. In Polish of course. In English it will be Margaret or Margarett if you like doubled-letter.<br>
+<p>My name is Małgorzata. In Polish of course. In English it will be Margaret or Margarett if you like doubled-letter.<br>
 A few months ago I decided to do something more with my job, with my future (I always loved computers) so today I have courage and I am doing my first step.
 <br>
-Let's be clear: I know that my English isn't excellent - please forgive me about that - I am still learning. <br>If you see bugs please write to me and I will fix this. It will be a one more lesson for me. Thank you!</article>
+Let's be clear: I know that my English isn't excellent - please forgive me about that - I am still learning. <br>If you see bugs (not only with code, but language too) please write to me and I will fix this. It will be a one more lesson for me. Thank you!</p>
+</article>
 </body>
 </html>
